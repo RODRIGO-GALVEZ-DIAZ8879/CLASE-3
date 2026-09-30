@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo {
+    color: blue;
+}
+
+.precio {
+    color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.producto {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.producto_1 {
+    border: 2px solid black;
+    margin: 20px;
+    width: 25%;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#producto_destacado {
+    border: 3px solid red;
+}
